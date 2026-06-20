@@ -2,8 +2,8 @@
 -- SCRIPT TỔNG HỢP HOÀN CHỈNH 100%: mr.bơ Hub | Grow A Garden 2
 -- ====================================================================
 
--- 1. KHỞI TẠO BIẾN HỆ THỐNG ĐỂ TẢI THƯ VIỆN GIAO DIỆN CHUẨN (DÙNG FLUENT UI THẬT)
-local mr_bo = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+-- 1. KHỞI TẠO BIẾN HỆ THỐNG ĐỂ TẢI THƯ VIỆN GIAO DIỆN CHUẨN (ĐÃ SỬA LINK LỖI)
+local mr_bo = loadstring(game:HttpGet("https://githubusercontent.com"))()
 
 -- 2. TẠO CỬA SỔ MENU CHÍNH MANG TÊN mr.bơ Hub
 local Window = mr_bo:CreateWindow({
